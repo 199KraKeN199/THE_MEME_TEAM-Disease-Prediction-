@@ -1,5 +1,5 @@
 # Data collected from "<<https://github.com/jini-the-coder/Diseaseprediction/blob/master/Testing.csv>>"
-
+#iasianhack
 #making the list of the symptoms of the diseases from the dataset used in same order
 l1 = ['itching', 'skin_rash', 'nodal_skin_eruptions', 'continuous_sneezing', 'shivering', 'chills', 'joint_pain',
          'stomach_pain', 'acidity', 'ulcers_on_tongue', 'muscle_wasting', 'vomiting', 'burning_micturition',
@@ -36,6 +36,7 @@ l1 = ['itching', 'skin_rash', 'nodal_skin_eruptions', 'continuous_sneezing', 'sh
          'pus_filled_pimples', 'blackheads', 'scurring', 'skin_peeling',
          'silver_like_dusting', 'small_dents_in_nails', 'inflammatory_nails', 'blister', 'red_sore_around_nose',
          'yellow_crust_ooze']
+
 # Total list_1 == 133
 # print(len(list_1))
 
